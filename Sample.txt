@@ -1,1 +1,4 @@
 //This is a sample txt file that will be used to check if merging is done successfully with the master branch or not.
+
+
+// Pushing the code from local to Github's Feature's Login Branch.
